@@ -75,7 +75,8 @@
 }
 
 #press {
-  padding: 100px color: white;
+  padding: 100px;
+  color: #ffffff;
   text-align: center;
   padding-bottom: 7%;
 }
